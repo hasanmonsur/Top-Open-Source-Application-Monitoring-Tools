@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.1.11312.151 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrometheusDotNetExample", "PrometheusDotNetExample.csproj", "{74F1D59F-0144-2AC2-A2AF-42B037F145FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F1D59F-0144-2AC2-A2AF-42B037F145FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F1D59F-0144-2AC2-A2AF-42B037F145FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F1D59F-0144-2AC2-A2AF-42B037F145FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F1D59F-0144-2AC2-A2AF-42B037F145FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05762FD2-1538-4871-A402-2E411E222357}
+	EndGlobalSection
+EndGlobal
